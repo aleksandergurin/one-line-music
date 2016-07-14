@@ -10,7 +10,7 @@ To play a music:
 
 References:
 
-    * [Sakarias Lehtomäen](http://countercomplex.blogspot.com/)
-    * [Discovering novel computer music techniques by exploring the space of short computer programs](http://arxiv.org/abs/1112.1368).
-    * [Making music with a C compiler](https://www.youtube.com/watch?v=vCEUyx-SxPw).
+ * [Sakarias Lehtomäen](http://countercomplex.blogspot.com/)
+ * [Discovering novel computer music techniques by exploring the space of short computer programs](http://arxiv.org/abs/1112.1368)
+ * [Making music with a C compiler](https://www.youtube.com/watch?v=vCEUyx-SxPw)
 
